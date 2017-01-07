@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/thyca/composer.json</file>
+            <file>file:/C:/xampp/htdocs/thyca/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/UtilitiesController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/templates/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Models/Painel/Saidas.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Kernel.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/public/assets/painel/css/especializati.css</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/auth/login/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/FluxoCaixaController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/movimentacao/pais.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/includes/menu.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/EntradaController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/public/assets/js/jquery.mask.js</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/utilities/pdf/pdf.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/routes.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/database/migrations/2014_10_12_100000_create_password_resets_table.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/pessoas/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/EstabelecimentoController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/storage/framework/views/2acc7a184365dcbdd1cbb47d9a7eb0a8</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/movimentacao/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Models/Painel/Empreendimentos.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/EmpreendimentoController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/saida/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/database/migrations/2015_09_16_004138_create_saida_table.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/SaidaController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/vendor/barryvdh/laravel-dompdf/src/PDF.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/painel/templates/cadastrar-Editar-Cliente.blade.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/public/assets/js/geral.js</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/PainelController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Http/Controllers/Painel/MovimentacaoController.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/database/migrations/2015_09_16_004136_create_entrada_table.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/app/Models/Painel/Entradas.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/storage/framework/views/653c548604843c7b9f7288ddacb92bdf</file>
+            <file>file:/C:/xampp/htdocs/thyca/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/database/migrations/2015_09_16_004135_create_empreendimento_table.php</file>
+            <file>file:/C:/xampp/htdocs/thyca/resources/views/auth/templates/index.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

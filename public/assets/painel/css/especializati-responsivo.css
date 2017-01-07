@@ -1,0 +1,5 @@
+@media screen and (max-width: 1000px){
+	.menu-painel{min-height: 45px;}
+	.menu-painel-ul{max-width: 100%;}
+	.menu-painel-ul li{display: inline-table; margin: 22px 10px;}
+}

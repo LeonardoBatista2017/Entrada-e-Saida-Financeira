@@ -1,0 +1,82 @@
+/*HELPERS*/
+.oculta{font-size: 0px; margin:0px;}
+.btn-padrao{background: #E3E5E8;color: #130E0E;width: 100%;padding: 10px 100px;font-size: 19px;border: none;font-weight: bold;}
+.divider{border:1px solid #655D5D;}
+
+/*RESETS*/
+a:hover{text-decoration: none;color: #F39020 !important;}
+.form-padrao{}
+.form-padrao input[type="text"], input[type="password"] {border-radius: 0px;height: 46px;border: 1px solid #D0E5EC;color: #000000;font-size: 16px;}
+.form-padrao input[type="submit"]{}
+.clear{clear: both;}
+.btn-cadastrar{background-color: #12D837;color: #fff;padding: 13px 19px;font-size: 18px;    margin: 0px 14px;}
+.btn-saida{background: #3b5bfb;padding: 6px 4px;color: #fff;border-radius:2px;font-weight: bold;margin-right: 10px;}
+
+/*paddings*/
+.padding-20{padding: 20px;}
+.padding-10{padding: 10px;}
+.padding-5{padding: 5px;}
+/*FONTES*/
+.fonte_subtotal_despesas{
+    color: #dc1919;
+    background: #161635;
+    font-weight: bold;
+}
+
+/*CORES*/
+
+
+
+/*BACKGROUNDS*/
+.bg-padrao{background-color: #FDFFFD}
+.bg-padrao2{background-color: #33B5E5;color:#FFF;}
+.bg-padrao3{background-color: #000;color:#FFF;}
+.bg-padrao4{background-color: #E54C33;color:#FFF;}
+.bg-padrao5{background-color: #12D837;color: #FFF;}
+.bg-padrao6{background-color: #72d540;color: #FFF;}
+/* 
+Formulario Login
+*/
+.login{margin: 200px auto;  max-width: 550px;  text-align: center; background: #FFF;}
+.topo-login{background-color: #f92908;color: #FFF;padding: 5px;}
+.conteudo-login{padding: 34px 8px 12px 8px;}
+.titulo-login{font-size: 24px;}
+.recuperar-senha{float:right;color: #E54C33;;}
+
+
+
+
+/***************************
+PaineL
+****************************/
+
+/*Topo Painel*/
+.topo-painel{background-color: #07285a;padding:10px 6px;float: left;width: 100%;}
+
+.logo-painel{max-width: 160px;}
+.acoes-painel{float: right;border: 1px solid #33b5e5;padding: 8px;color: #33b5e5;}
+.acoes-painel .sair{background: #1cbcca; color: #930707;}
+.icon-acoes-painel{margin-top: 5px;float: left;margin: 10px;}
+
+
+/*Menu*/
+
+.menu-painel{background-color: #292626;padding: 0px;min-height: 805px;}
+.menu-painel-ul{list-style: none;padding: 18px;margin: 0px;}
+.menu-painel-ul li{margin: 22px 0px;}
+.menu-painel-ul li a{color:#fff;font-size: 18px;}
+
+/*Conteúdo*/
+
+.cont{background-color: #fff;padding: 5px; border-radius: 4px;min-height: 800px;}
+.conteudo{padding: 5px;}
+.titulo-pg-painel{font-size: 24px; color:#655D5D;}
+.conteudo-listagens{}
+div.relatorio{font-size: 35px; text-align: center;color:#CCC;padding: 25px 0px;}
+.icone-relatorio{padding: 20px;border-radius: 5px;}
+p.relatorio{font-size: 18px;}
+.edit{background-color: #1c8cca; color:#FFF;padding: 6px 4px; border-radius: 5px;margin: 2px;}
+.delete{background-color: #F10404;color: #fff;padding: 6px 4px;border-radius: 5px;}
+/***************************
+End PaineL
+****************************/
