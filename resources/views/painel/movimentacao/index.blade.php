@@ -2,7 +2,7 @@
 
 @section('content')
 
-<h1 class="titulo-pg-painel">Cadastro de Entrada</h1>
+<h1 class="titulo-pg-painel">Cadastro de Entradas</h1>
 
 <div class="divider"></div>
 

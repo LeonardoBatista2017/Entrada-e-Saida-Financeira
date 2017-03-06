@@ -21,7 +21,7 @@
     <tr>
         <th>Nome</th>
         <th>Telefone</th>
-        <th>Rotina de Pagamento</th>
+        <th>Rotina de Pagamentos</th>
 
         <th width="120px;"></th>
     </tr>
